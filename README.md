@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Devleoper, Quality Tester, Designer, Progammer
 ----------------------------------------------
 
-I'm currently a Senior Computer Scientist at Kennesaw state university who will graduate in May 2023. I have experience in Software Q and A and have worked on multiple projects in different programming languages, from C to SQL to Java.
+I'm currently a Senior Computer Scientist at Kennesaw state university who will graduate in May 2023. I am a highly motivated and detail-oriented Software Q&A Tester, and Programmer.I have a strong understanding of software development and testing methodologies, and I am proficient in a variety of testing tools and techniques. I am also a team player and I am always willing to go the extra mile to get the job done. I am eager to learn new things and I am always looking for ways to improve my skills. I am confident that I would be a valuable asset to your team.
+Thank you for your time and consideration.
 
 * 🌍  I'm based in Atlanta
 * 🖥️  See my portfolio at [Portflio](http://www.linkedin.com/in/aaron-dailey-95801a237/)
