@@ -10,6 +10,7 @@ I'm currently a Senior Computer Scientist at Kennesaw state university who will 
 * 🖥️  See my portfolio at [Portflio](http://www.linkedin.com/in/aaron-dailey-95801a237/)
 * ✉️  You can contact me at [aarondailey9@gmail.com](mailto:aarondailey9@gmail.com)
 * 🚀  I'm currently working on [Chess AI](http://github.com/NickSamKen/SP-14-Build-Chess-Game-Using-AI)
+* 🖥️ Videos of previous work [Videos](https://tinyurl.com/4bvt244n)
 
 ### Skills
 
