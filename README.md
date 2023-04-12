@@ -12,7 +12,8 @@ Thank you for your time and consideration.
 * ✉️  You can contact me at [aarondailey9@gmail.com](mailto:aarondailey9@gmail.com)
 * 🚀  I'm currently working on [Chess AI](http://github.com/NickSamKen/SP-14-Build-Chess-Game-Using-AI)
 * 🖥️ Videos of previous work [Videos](https://tinyurl.com/4bvt244n)
-
+Other repostories I worked on:
+https://github.com/Kryto627/stress-popper
 ### Skills
 
 
