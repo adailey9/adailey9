@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aaron Dailey
 ====================================================================================================================================
 
-Devleoper, Quality Tester, Designer, Progammer
+Developer, Quality Tester, Designer, Progammer
 ----------------------------------------------
 
 I'm currently a Senior Computer Scientist at Kennesaw state university who will graduate in May 2023. I am a highly motivated and detail-oriented Software Q&A Tester, and Programmer.I have a strong understanding of software development and testing methodologies, and I am proficient in a variety of testing tools and techniques. I am also a team player and I am always willing to go the extra mile to get the job done. I am eager to learn new things and I am always looking for ways to improve my skills. I am confident that I would be a valuable asset to your team.
