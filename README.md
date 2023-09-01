@@ -10,7 +10,7 @@ Thank you for your time and consideration.
 * 🌍  I'm based in Augusta, GA
 * 🖥️  See my portfolio at [Portflio](http://www.linkedin.com/in/aaron-dailey-95801a237/)
 * ✉️  You can contact me at [aarondailey9@gmail.com](mailto:aarondailey9@gmail.com)
-* 🚀  I'm currently working on cloud skills
+* 🚀  I'm currently working on cloud skills and vr project
 * 🖥️ Videos of previous work [Videos](https://tinyurl.com/4bvt244n)
 * 💻 Other repostories I worked on:
 https://github.com/Kryto627/stress-popper
